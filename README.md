@@ -1,5 +1,10 @@
 ## 👻 About me
+
 A novice developer, a quick learner.
+
+🌏 Favorite direction: work with objects in games. <br/>
+🕵 Years: 19 <br/>
+💻 Current job: none <br/>
 
 ### 🚩 Knowledge of programming languages
 Name | Icon | Used |
