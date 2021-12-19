@@ -1,10 +1,11 @@
+
 ## 👻 About me
 
 A novice developer, a quick learner.
 
 🌏 Favorite direction: work with objects in games. <br/>
 🕵 Years: 19 <br/>
-💻 Current job: @gamemode-team <br/>
+💻 Current job: [@gamemode-team](https://github.com/orgs/gamemode-team/)
 
 ### 🚩 Knowledge of programming languages
 Name | Icon | Used |
