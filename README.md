@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👻 About me
+A novice developer, a quick learner.
 
-<!--
-**AnyControl/AnyControl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚩 Knowledge of programming languages
+Name | Icon | Used |
+--- | --- | --- |
+Lua | <img src="https://user-images.githubusercontent.com/93148118/146674903-a1b59ca2-bfe7-4fb2-aa74-88f8d9e7a117.png" width="64" height="64" /> | Garry's mod, <br/> Own projects
+C# | <img src="https://user-images.githubusercontent.com/93148118/146675113-2f868089-44b5-4462-90f8-81d4922c3156.png" width="64" height="64" /> | College Projects, <br /> Own projects 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Garry's mod development
+## 📄 Links 
+- [My small but useful scripts](https://gist.github.com/AnyControl)
