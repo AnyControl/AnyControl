@@ -14,6 +14,8 @@ Lua | <img src="https://user-images.githubusercontent.com/93148118/146674903-a1b
 C# | <img src="https://user-images.githubusercontent.com/93148118/146675113-2f868089-44b5-4462-90f8-81d4922c3156.png" width="64" height="64" /> | College Projects, <br /> Own projects 
 
 ## 🔧 Skills
-- Garry's mod development
+Name | Years |
+--- | --- |
+| Garry's mod development | 4
 ## 📄 Links 
 - [My small but useful scripts](https://gist.github.com/AnyControl)
