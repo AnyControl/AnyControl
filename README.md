@@ -16,6 +16,6 @@ C# | <img src="https://user-images.githubusercontent.com/93148118/146675113-2f86
 ## 🔧 Skills
 Name | Years |
 --- | --- |
-| Garry's mod development | 4
+| Garry's mod game dev | 4
 ## 📄 Links 
 - [My small but useful scripts](https://gist.github.com/AnyControl)
