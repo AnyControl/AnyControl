@@ -2,7 +2,7 @@
 
 Years: 19 <br/>
 Current job: [none]() <br/>
-Current Hobby: [@GMDev](https://github.com/orgs/garrysmod-development)
+Current Hobby: [none]() <br/>
 
 ## 📄 Links 
 - [My small but useful scripts](https://gist.github.com/AnyControl)
